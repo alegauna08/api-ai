@@ -1,0 +1,45 @@
+# Compiled / temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.cache/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets and local config (do NOT commit)
+.env
+.envrc
+
+# Vercel
+.vercel/
+
+# Database files
+musica.db
+
+# Ignore python cache/indexes
+.mypy_cache/
+.pytest_cache/
+
+# Ignore IDE / editor files
+*.swp
+
